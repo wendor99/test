@@ -1,0 +1,5 @@
+Документация Slick Slider: http://kenwheeler.github.io/slick/
+
+GitHub файлы Slick Slider: https://github.com/kenwheeler/slick/
+
+Другое от автора: https://kenwheeler.github.io/
